@@ -14,7 +14,7 @@
 body {
   font-family: "Karla", Arial, sans-serif;
   line-height: 1.8;
-  font-size: 20px;
+  font-size: 18px;
   background: #f0f0f0;
   background-image: url(images/photography.png);
   font-weight: 300;
@@ -61,7 +61,7 @@ p, span {
 }
 
 span {
-  font-size: 18px;
+  font-size: 1px;
   color: rgba(114, 114, 114, 0.8);
 }
 
@@ -763,7 +763,7 @@ header .fh5co-navbar-brand .fh5co-social-icon a {
 #fh5co-work-section,
 #fh5co-about-section,
 #fh5co-map-section {
-  padding-bottom: 7em;
+  padding-bottom: 4em;
 }
 
 #fh5co-intro-section {
@@ -1021,7 +1021,7 @@ header .fh5co-navbar-brand .fh5co-social-icon a {
 }
 .fh5co-blog .blog-text span.comment {
   float: right;
-  font-size: 14px;
+  font-size: 12px;
 }
 .fh5co-blog .blog-text span.comment a {
   color: rgba(0, 0, 0, 0.3);
@@ -1144,7 +1144,7 @@ input[type="text"] {
   padding: 0;
 }
 #footer ul li {
-  font-size: 18px;
+  font-size: 14px;
   list-style: none;
   margin-bottom: 0;
 }
